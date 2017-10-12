@@ -1,0 +1,37 @@
+﻿I'm sorry, but errors were detected in your script. Please correct the
+errors listed below, and try again.
+
+
+The label extortion_example_loop is defined twice, at
+  File "game/script/extortion_iris.rpy", line 29 and
+  File "game/script/extortion_richards.rpy", line 30.
+
+The label extortion_example_first_threat is defined twice, at
+  File "game/script/extortion_iris.rpy", line 75 and
+  File "game/script/extortion_richards.rpy", line 76.
+
+The label extortion_example_second_threat is defined twice, at
+  File "game/script/extortion_iris.rpy", line 90 and
+  File "game/script/extortion_richards.rpy", line 91.
+
+The label extortion_example_third_threat is defined twice, at
+  File "game/script/extortion_iris.rpy", line 105 and
+  File "game/script/extortion_richards.rpy", line 106.
+
+The label extortion_example_fourth_threat is defined twice, at
+  File "game/script/extortion_iris.rpy", line 120 and
+  File "game/script/extortion_richards.rpy", line 121.
+
+The label extortion_example_fifth_threat is defined twice, at
+  File "game/script/extortion_iris.rpy", line 135 and
+  File "game/script/extortion_richards.rpy", line 136.
+
+The label extortion_example_success is defined twice, at
+  File "game/script/extortion_iris.rpy", line 150 and
+  File "game/script/extortion_richards.rpy", line 151.
+
+The label extortion_example_failure is defined twice, at
+  File "game/script/extortion_iris.rpy", line 155 and
+  File "game/script/extortion_richards.rpy", line 156.
+
+Ren'Py Version: Ren'Py 6.99.12.4.2187
